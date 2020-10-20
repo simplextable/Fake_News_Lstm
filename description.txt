@@ -1,0 +1,7 @@
+we will imitate that solution:
+
+https://towardsdatascience.com/lstm-text-classification-using-pytorch-2c6c657f8fc0
+
+csv: https://www.kaggle.com/nopdev/real-and-fake-news-dataset
+
+news1.csv : we modified news.csv. we will use news1.csv
